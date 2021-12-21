@@ -25,15 +25,18 @@ As per the College Board, AP Computer Science A has 10 units of Study:
 
 The course is also organized around four big ideas:
 
--"**Modularity**: Modularity in object-oriented programming allows us
+  -"**Modularity**: Modularity in object-oriented programming allows us
 to use abstraction to break complex programs down into
 individual classes and methods."
--"**Variables**: Variables create data abstractions, as they can
+
+  -"**Variables**: Variables create data abstractions, as they can
 represent a set of possible values or a group of related values."
--"**Control**: Doing things in order, making decisions, and doing the
+
+  -"**Control**: Doing things in order, making decisions, and doing the
 same process multiple times are represented in code by using
 control structures."
--"**Impact of Computing**: Computers and computing have
+
+  -"**Impact of Computing**: Computers and computing have
 revolutionized our lives. To use computing safely and responsibly,
 we need to be aware of privacy, security, and ethical issues."
 
@@ -76,18 +79,25 @@ Students are required to bring a laptop, Chromebook or iPad to class each day wi
 
 Students who are using a district provided Chromebook are on a machine with the following specs:
 
-  -ASUS Chromebook
-  -Intel Celeron N3350 Processsor
-  -32GB Sotrage Space (eMMC Storage)
-  -4GB RAM (LPDDR4 RAM)
-  -Integrated Graphics Card
-  -Chrome Operating System
+   -ASUS Chromebook
+   
+   -Intel Celeron N3350 Processsor
+   
+   -32GB Sotrage Space (eMMC Storage)
+   
+   -4GB RAM (LPDDR4 RAM)
+   
+   -Integrated Graphics Card
+   
+   -Chrome Operating System
 
 ### Application
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+
+The structure of the class roughly follows a pattern. Each unit is divided into sections. For each section I have a brief lecture with slides to provide visual aides for the concepts being covered in that section. Students are then assigned the corresponding section in our CSAwesome textbook to read and complete problets in which are auto-graded to provide the student with immediate feedback. The textbook is interactive and often incorporates YouTube videos, word-matching problems, multiple-choice questions, and mixed-up code practice in the text. Each section ends with a Programming Challenge which is typically assigned as a Pair Programming experience. I encourage students to work together ont he Programming Challenge and have paired them strategically so that my absolute beinners are always paired with someone who has some experience coding, and my most advanced programming students are paired with students who have at least some coding experience, so that the ability gap between partners is nor unreasonably wide. About midway through each unit we typically complete a Progress Check on the AP Classroom website which gives me and the students immediate feedback on how they are progressing in their understanding of the current unit measured by their ability to correclty answer practice AP Test questions on the content learned so far. AOnce these formative assessments are completed, I typically make. PearDeck of the questions that proved to be most challenging for my students. We then revisit them again in class, this time in pairs of two to analyze the code presented and discuss with apartner which answer they believe is correct. This allows for rich discussions to occur in class and for me to attempt to eliminate any remaining misconceptions. I sometimes use Coding Rooms to demo how a pice ofcode works (or doesn't) and ask students to debug or make suggestions about how we might fix a piece of code. At the end of each unit before the unit test I prepare another PearDeck of challenging/relevant questions which we tackle in teams of two, then discuss as a whole class. The Unit test is taken as a paer/pencil test individually and graded by me, but students are allowed to do test corrections where they can earn points back by writing about why their choice was incorrect, what the correct answer, is and why all the other choices 
 
 ### Impacts
 
