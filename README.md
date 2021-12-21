@@ -72,7 +72,7 @@ installed as well as any online services.
 
 ### Hardware Specifications
 
-Students are required to bring a laptop, Chromebook or iPad to class each day with a charger. Since there are so many different personal devices brought to class each day, I have no specific hardward requirements. The device they bring to class must be able to wirelessly access the internet and I strongly encourage the use of the Chrome browser since most of the websites we use during class simply work better on Chrome. 
+Students are required to bring a laptop, Chromebook or iPad to class each day with a charger. Since there are so many different personal devices brought to class each day, I have no specific hardware requirements. The device they bring to class must be able to wirelessly access the internet and I strongly encourage the use of the Chrome browser since most of the websites we use during class simply work better on Chrome. 
 
 Students who are using a district provided Chromebook are on a machine with the following specs:
 
