@@ -25,15 +25,15 @@ As per the College Board, AP Computer Science A has 10 units of Study:
 
 The course is also organized around four big ideas:
 
-*"**Modularity**: Modularity in object-oriented programming allows us
+-"**Modularity**: Modularity in object-oriented programming allows us
 to use abstraction to break complex programs down into
 individual classes and methods."
-*"**Variables**: Variables create data abstractions, as they can
+-"**Variables**: Variables create data abstractions, as they can
 represent a set of possible values or a group of related values."
-*"**Control**: Doing things in order, making decisions, and doing the
+-"**Control**: Doing things in order, making decisions, and doing the
 same process multiple times are represented in code by using
 control structures."
-*"**Impact of Computing**: Computers and computing have
+-"**Impact of Computing**: Computers and computing have
 revolutionized our lives. To use computing safely and responsibly,
 we need to be aware of privacy, security, and ethical issues."
 
@@ -76,13 +76,12 @@ Students are required to bring a laptop, Chromebook or iPad to class each day wi
 
 Students who are using a district provided Chromebook are on a machine with the following specs:
 
--ASUS Chromebook
--Intel Celeron N3350 Processsor
--32GB Sotrage Space (eMMC Storage)
--4GB RAM (LPDDR4 RAM)
--Integrated Graphics Card
--Chrome Operating System
-
+  -ASUS Chromebook
+  -Intel Celeron N3350 Processsor
+  -32GB Sotrage Space (eMMC Storage)
+  -4GB RAM (LPDDR4 RAM)
+  -Integrated Graphics Card
+  -Chrome Operating System
 
 ### Application
 
